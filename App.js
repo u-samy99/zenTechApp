@@ -12,7 +12,6 @@ import React from 'react';
 //  import Partnerships from './app/components/Partnerships';
 //  import Locals from './app/components/Locals';
 //  import ViewMore from './app/components/ViewMore';
-
 //  import FlatCard from './app/components/FlatCard';
 //  import ActivityIndicator from './app/components/ActivityIndicator';
 
